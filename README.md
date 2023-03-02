@@ -21,6 +21,9 @@ Dimensions also assigns a relevance score to a concept (i.e., concept score). Co
 ## Fields of research
 In Dimensions, the discipline of a scholarly record is referred to as field of research ([FoR](https://plus.dimensions.ai/support/solutions/articles/23000018826-what-is-the-background-behind-the-fields-of-research-for-classification-system-)). This is a classification system sourced from the Australian and New Zealand Standard Research Classfication (ANZSRC). A single record can have multiple FoRs.
 
+## Collaboration network
+Two collaboration networks are shown. One treats author as node, and the other treats a CMU entity (e.g., department, school, college, etc.).
+
 ## How to use
 Users start by entering any research topic in the text box. Any concepts that contain the input text will be matched. Publications or grants that contain matched concepts and their authors will be returned. The associated concept scores (y-axis) will be plotted against expert names (x-axis) in a bar graph, so that users can see which experts focus more on some matched concepts than on others.
 
