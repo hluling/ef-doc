@@ -40,7 +40,7 @@ Two collaboration networks are shown. One treats author as node, and the other t
 6. there is also a button to show or hide the returned publication or grant data. To keep the interface clean, the default is to hide the publication or grant data. However, if needed, users can choose to see more information about a publication or grant (e.g., abstract). Users can enter text to filter a column. Finally, the results can be downloaded (in CSV) using the “Export” button.
 
 ## Data update
-The data is updated once a week in the backend, provided that the faculty list is update to date.
+The data is updated once a week in the backend, provided that the faculty list is up to date.
 
 To update the faculty list for EF, there are two relevant Excel files in the `\data` folder:
 * name_org.xlsx
